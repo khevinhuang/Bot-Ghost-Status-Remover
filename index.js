@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Pikachu owner is Kevin Huang"];
 
 
 let currentIndex = 0;
